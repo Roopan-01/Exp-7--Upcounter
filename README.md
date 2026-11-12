@@ -151,6 +151,10 @@ In DVE:
 The waveform should agree with the state transition table.
 
 ## Expected Result
+<img width="1910" height="942" alt="Screenshot 2026-11-12 122218" src="https://github.com/user-attachments/assets/44322751-bf0a-447b-944f-903cbf754c1c" />
+<img width="1917" height="580" alt="Screenshot 2026-11-12 122303" src="https://github.com/user-attachments/assets/7aa2266e-e6af-4def-a947-9ea16cd1229d" />
+
+
 
 The 4-bit Synchronous Up-Counter was realized using Verilog HDL, with the characteristic behaviour:
 
@@ -160,7 +164,7 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 
 ## Output
 
-<img width="609" height="173" alt="image" src="https://github.com/user-attachments/assets/34051c7c-087f-4759-a55f-1af528460ca0" />
+<img width="1920" height="1080" alt="Screenshot 2026-11-12 122404" src="https://github.com/user-attachments/assets/f8c6537c-80a1-49a7-82d1-f38607bb04e3" />
 
 ## Viva-Voce Questions
 
